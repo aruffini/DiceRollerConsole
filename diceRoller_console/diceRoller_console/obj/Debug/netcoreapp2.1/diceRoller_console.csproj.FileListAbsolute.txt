@@ -1,0 +1,11 @@
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\obj\Debug\netcoreapp2.1\diceRoller_console.csprojAssemblyReference.cache
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\obj\Debug\netcoreapp2.1\diceRoller_console.csproj.CoreCompileInputs.cache
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\obj\Debug\netcoreapp2.1\diceRoller_console.AssemblyInfoInputs.cache
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\obj\Debug\netcoreapp2.1\diceRoller_console.AssemblyInfo.cs
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\bin\Debug\netcoreapp2.1\diceRoller_console.deps.json
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\bin\Debug\netcoreapp2.1\diceRoller_console.runtimeconfig.json
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\bin\Debug\netcoreapp2.1\diceRoller_console.runtimeconfig.dev.json
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\bin\Debug\netcoreapp2.1\diceRoller_console.dll
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\bin\Debug\netcoreapp2.1\diceRoller_console.pdb
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\obj\Debug\netcoreapp2.1\diceRoller_console.dll
+C:\Users\Ashle\source\repos\diceRoller_console\diceRoller_console\obj\Debug\netcoreapp2.1\diceRoller_console.pdb
